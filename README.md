@@ -88,13 +88,13 @@ No additional installation steps are required — the project uses only Python's
 Run the script directly from your terminal:
 
 ```bash
-python calculator.py
+python command-line-calculator.py
 ```
 
 On some systems (macOS/Linux), you may need to use `python3` instead:
 
 ```bash
-python3 calculator.py
+python3 command-line-calculator.py
 ```
 
 ---
